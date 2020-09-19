@@ -3,9 +3,12 @@
 # The easiest way to run infrastructure on [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50">](https://github.com/mineiros-io)
 ## Built on Terraform, Mineiros enables teams to deploy and manage reusable, tested and secure infrastructure on AWS in days instead of months.
 
+[![Terraform Version][badge-terraform]][releases-terraform]
+[![AWS Provider Version][badge-tf-aws]][releases-aws-provider]
+[![GitHub Provider Version][badge-tf-gh]][releases-github-provider]
 [![Join Slack][badge-slack]][slack]
 
-***All our modules support Terraform v0.13 as well as v0.12.20 and above and are ready for the upcoming Terraform 0.14 release***
+***All our modules support Terraform v0.13 as well as v0.12.20 and above and are ready for the upcoming Terraform 0.14 release.***
 
 ### our open-source AWS Terraform Modules
 
@@ -34,3 +37,12 @@
 [github]: https://github.com/mineiros-io
 [badge-slack]: https://img.shields.io/badge/slack-@mineiros--community-f32752.svg?logo=slack
 [slack]: https://join.slack.com/t/mineiros-community/shared_invite/zt-ehidestg-aLGoIENLVs6tvwJ11w9WGg
+
+[badge-terraform]: https://img.shields.io/badge/terraform-v0.13%20and%20v0.12.20+-623CE4.svg?logo=terraform
+[releases-terraform]: https://github.com/hashicorp/terraform/releases
+
+[badge-tf-aws]: https://img.shields.io/badge/AWS-v3%20and%20v2-F8991D.svg?logo=terraform
+[releases-aws-provider]: https://github.com/terraform-providers/terraform-provider-aws/releases
+
+[badge-tf-gh]: https://img.shields.io/badge/GitHub-v3%20and%20v2-000000.svg?logo=terraform
+[releases-github-provider]: https://github.com/terraform-providers/terraform-provider-github/releases
