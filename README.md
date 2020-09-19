@@ -25,7 +25,7 @@
 
 ### our open-source Github Terraform Modules
 
-***All AWS Modules are compatible with the Terraform GitHub Provider v3 as well as v2.***
+***All Github Modules are compatible with the Terraform GitHub Provider v3 as well as v2.***
 
 - [terraform-aws-github-organization](https://github.com/mineiros-io/terraform-aws-github-organization)
 - [terraform-aws-github-repository](https://github.com/mineiros-io/terraform-aws-github-repository)
