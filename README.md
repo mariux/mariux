@@ -1,18 +1,20 @@
 [<img src="https://raw.githubusercontent.com/mineiros-io/brand/3bffd30e8bdbbde32c143e2650b2faa55f1df3ea/mineiros-primary-logo.svg" width="800"/>][github]
 
-# The easiest way to run infrastructure on [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50">](https://github.com/mineiros-io)
-## Built on Terraform, Mineiros enables teams to deploy and manage reusable, tested and secure infrastructure on AWS in days instead of months.
+---
 
 [![Terraform Version][badge-terraform]][releases-terraform]
 [![AWS Provider Version][badge-tf-aws]][releases-aws-provider]
 [![GitHub Provider Version][badge-tf-gh]][releases-github-provider]
 [![Join Slack][badge-slack]][slack]
 
+# The easiest way to run infrastructure on [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50">](https://github.com/mineiros-io)
+## Built on Terraform, Mineiros enables teams to deploy and manage reusable, tested and secure infrastructure on AWS in days instead of months.
+
 ***All our modules support Terraform v0.13 as well as v0.12.20 and above and are ready for the upcoming Terraform 0.14 release.***
 
 ### Mineiros open-source AWS Terraform Modules
 
-***All AWS Modules are compatible with the Terraform AWS Provider v3 as well as v2.***
+*All AWS Modules are compatible with the Terraform AWS Provider v3 as well as v2.*
 
 - [terraform-aws-vpc](https://github.com/mineiros-io/terraform-aws-vpc)
 - [terraform-aws-iam-user](https://github.com/mineiros-io/terraform-aws-iam-user)
@@ -28,7 +30,7 @@
 
 ### Mineiros open-source Github Terraform Modules
 
-***All Github Modules are compatible with the Terraform GitHub Provider v3 as well as v2.***
+*All Github Modules are compatible with the Terraform GitHub Provider v3 as well as v2.*
 
 - [terraform-aws-github-organization](https://github.com/mineiros-io/terraform-aws-github-organization)
 - [terraform-aws-github-repository](https://github.com/mineiros-io/terraform-aws-github-repository)
