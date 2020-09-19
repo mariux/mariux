@@ -40,11 +40,11 @@
 [badge-slack]: https://img.shields.io/badge/slack-@mineiros--community-f32752.svg?logo=slack
 [slack]: https://join.slack.com/t/mineiros-community/shared_invite/zt-ehidestg-aLGoIENLVs6tvwJ11w9WGg
 
-[badge-terraform]: https://img.shields.io/static/v1?label=Terraform&message=v0.13%20and%20v0.12.20%2b&color=623CE4&logo=terraform&logoColor=623CE4&labelColor=bbb
+[badge-terraform]: https://img.shields.io/static/v1?label=Terraform&message=v0.13%20and%20v0.12.20%2b&color=623CE4&logo=terraform&logoColor=623CE4&labelColor=ccc
 [releases-terraform]: https://github.com/hashicorp/terraform/releases
 
-[badge-tf-aws]: https://img.shields.io/static/v1?label=AWS%20Provider&message=v3%20and%20v2&color=F8991D&logo=amazon&logoColor=000&labelColor=bbb
+[badge-tf-aws]: https://img.shields.io/static/v1?label=AWS%20Provider&message=v3%20and%20v2&color=F8991D&logo=amazon&logoColor=000&labelColor=ccc
 [releases-aws-provider]: https://github.com/terraform-providers/terraform-provider-aws/releases
 
-[badge-tf-gh]: https://img.shields.io/static/v1?label=Github%20Provider&message=v3%20and%20v2&color=000&logo=github&logoColor=000&labelColor=bbb
+[badge-tf-gh]: https://img.shields.io/static/v1?label=Github%20Provider&message=v3%20and%20v2&color=000&logo=github&logoColor=000&labelColor=ccc
 [releases-github-provider]: https://github.com/terraform-providers/terraform-provider-github/releases
