@@ -10,7 +10,7 @@
 
 ***All our modules support Terraform v0.13 as well as v0.12.20 and above and are ready for the upcoming Terraform 0.14 release.***
 
-### our open-source AWS Terraform Modules
+### Mineiros open-source AWS Terraform Modules
 
 ***All AWS Modules are compatible with the Terraform AWS Provider v3 as well as v2.***
 
@@ -26,7 +26,7 @@
 - [terraform-aws-cognito-user-pool](https://github.com/mineiros-io/terraform-aws-cognito-user-pool)
 - [terraform-aws-lambda-function](https://github.com/mineiros-io/terraform-aws-lambda-function)
 
-### our open-source Github Terraform Modules
+### Mineiros open-source Github Terraform Modules
 
 ***All Github Modules are compatible with the Terraform GitHub Provider v3 as well as v2.***
 
