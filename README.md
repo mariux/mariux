@@ -9,26 +9,42 @@
 
 ***All our modules support Terraform v0.13 as well as v0.12.20 and above and are ready for the upcoming Terraform 0.14 release.***
 
-### Mineiros open-source AWS Terraform Modules
+### Mineiros AWS Terraform Modules
 
 [![Terraform Version][badge-terraform]][releases-terraform]
 [![AWS Provider Version][badge-tf-aws]][releases-aws-provider]
 
 *All AWS Modules are compatible with the Terraform AWS Provider v3 as well as v2.*
 
-- [terraform-aws-vpc](https://github.com/mineiros-io/terraform-aws-vpc)
+#### Compute
+- [terraform-aws-lambda-function](https://github.com/mineiros-io/terraform-aws-lambda-function)
+- terraform-aws-ec2-instance *(coming next)*
+- terraform-aws-eks-cluster *(coming next)*
+- terraform-aws-ecs *(coming next)*
+
+#### Storage and Databases
+- [terraform-aws-s3-bucket](https://github.com/mineiros-io/terraform-aws-s3-bucket)
+- [terraform-aws-dynamodb](https://github.com/mineiros-io/terraform-aws-dynamodb)
+- terraform-aws-rds *(coming next)*
+
+#### Identity and Access Management (IAM)
 - [terraform-aws-iam-user](https://github.com/mineiros-io/terraform-aws-iam-user)
 - [terraform-aws-iam-group](https://github.com/mineiros-io/terraform-aws-iam-group)
 - [terraform-aws-iam-role](https://github.com/mineiros-io/terraform-aws-iam-role)
 - [terraform-aws-iam-policy](https://github.com/mineiros-io/terraform-aws-policy)
-- [terraform-aws-dynamodb](https://github.com/mineiros-io/terraform-aws-dynamodb)
-- [terraform-aws-ecr](https://github.com/mineiros-io/terraform-aws-ecr)
-- [terraform-aws-s3-bucket](https://github.com/mineiros-io/terraform-aws-s3-bucket)
-- [terraform-aws-route53](https://github.com/mineiros-io/terraform-aws-route53)
-- [terraform-aws-cognito-user-pool](https://github.com/mineiros-io/terraform-aws-cognito-user-pool)
-- [terraform-aws-lambda-function](https://github.com/mineiros-io/terraform-aws-lambda-function)
 
-### Mineiros open-source Github Terraform Modules
+#### Infratsructure
+- [terraform-aws-vpc](https://github.com/mineiros-io/terraform-aws-vpc)
+- [terraform-aws-route53](https://github.com/mineiros-io/terraform-aws-route53)
+- terraform-aws-cloudfront *(coming next)*
+- terraform-aws-elb *(coming next)*
+
+#### Services
+- [terraform-aws-ecr](https://github.com/mineiros-io/terraform-aws-ecr)
+- [terraform-aws-cognito-user-pool](https://github.com/mineiros-io/terraform-aws-cognito-user-pool)
+- terraform-aws-acm *(coming next)*
+
+### Mineiros Github Terraform Modules
 
 [![Terraform Version][badge-terraform]][releases-terraform]
 [![GitHub Provider Version][badge-tf-gh]][releases-github-provider]
