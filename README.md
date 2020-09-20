@@ -14,7 +14,7 @@
 [![Terraform Version][badge-terraform]][releases-terraform]
 [![AWS Provider Version][badge-tf-aws]][releases-aws-provider]
 
-*All AWS Modules are compatible with the Terraform AWS Provider v3 as well as v2.*
+*All Terraform AWS Modules are compatible with the Terraform AWS Provider v3 as well as v2.*
 
 #### Compute
 - [terraform-aws-lambda-function](https://github.com/mineiros-io/terraform-aws-lambda-function)
@@ -49,7 +49,7 @@
 [![Terraform Version][badge-terraform]][releases-terraform]
 [![GitHub Provider Version][badge-tf-gh]][releases-github-provider]
 
-*All Github Modules are compatible with the Terraform GitHub Provider v3 as well as v2.*
+*All Terraform Github Modules are compatible with the Terraform GitHub Provider v3 as well as v2.*
 
 - [terraform-aws-github-organization](https://github.com/mineiros-io/terraform-aws-github-organization)
 - [terraform-aws-github-repository](https://github.com/mineiros-io/terraform-aws-github-repository)
