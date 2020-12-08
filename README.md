@@ -9,6 +9,8 @@
 
 ***All our modules support Terraform v0.13 as well as v0.12.20 and above and are ready for the upcoming Terraform 0.14 release.***
 
+**NEW** We also offer **PROFESSIONAL SUPPORT** for our open source library and exclusive previews on upcoming modules check out our full catalogue and pricing: [Terraform Library](https://www.mineiros.io/solutions/terraform-library#pricing)
+
 ### Mineiros AWS Terraform Modules
 
 [![Terraform Version][badge-terraform]][releases-terraform]
@@ -16,16 +18,18 @@
 
 *All Terraform AWS Modules are compatible with the Terraform AWS Provider v3 as well as v2.*
 
-#### Compute
+#### Compute, Containers, and Serverless
 - [terraform-aws-lambda-function](https://github.com/mineiros-io/terraform-aws-lambda-function)
 - terraform-aws-ec2-instance *(coming next)*
 - terraform-aws-eks-cluster *(coming next)*
+- terraform-aws-eks-node-group *(coming next)*
 - terraform-aws-ecs *(coming next)*
 
-#### Storage and Databases
+#### Storage, Databases, and Cache
 - [terraform-aws-s3-bucket](https://github.com/mineiros-io/terraform-aws-s3-bucket)
 - [terraform-aws-dynamodb](https://github.com/mineiros-io/terraform-aws-dynamodb)
-- terraform-aws-rds *(coming next)*
+- terraform-aws-rds *(coming soon)*
+- terraform-aws-elasticsearch-domain *(coming next)*
 
 #### Identity and Access Management (IAM)
 - [terraform-aws-iam-user](https://github.com/mineiros-io/terraform-aws-iam-user)
@@ -33,16 +37,29 @@
 - [terraform-aws-iam-role](https://github.com/mineiros-io/terraform-aws-iam-role)
 - [terraform-aws-iam-policy](https://github.com/mineiros-io/terraform-aws-policy)
 
-#### Infratsructure
+#### Infratsructure and Networking
 - [terraform-aws-vpc](https://github.com/mineiros-io/terraform-aws-vpc)
 - [terraform-aws-route53](https://github.com/mineiros-io/terraform-aws-route53)
+- terraform-aws-eip *(coming next)*
+- terraform-aws-security-group *(coming next)*
 - terraform-aws-cloudfront *(coming next)*
-- terraform-aws-elb *(coming next)*
+- terraform-aws-elb *(coming soon)*
 
 #### Services
 - [terraform-aws-ecr](https://github.com/mineiros-io/terraform-aws-ecr)
 - [terraform-aws-cognito-user-pool](https://github.com/mineiros-io/terraform-aws-cognito-user-pool)
+- terraform-aws-ses *(coming next)*
 - terraform-aws-acm *(coming next)*
+
+#### AWS Landing Zone
+- terraform-aws-organizations
+- terraform-aws-iam-account
+- terraform-aws-kms
+- terraform-aws-cloudtrail
+- terraform-aws-config
+- terraform-aws-guard-duty
+- terraform-aws-cloudwatch
+- terraform-aws-security-hub
 
 ### Mineiros Github Terraform Modules
 
