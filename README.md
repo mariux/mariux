@@ -11,6 +11,10 @@
 
 **NEW** We also offer payed **PROFESSIONAL SUPPORT** for our open source library and exclusive previews on upcoming modules check out our full catalogue and pricing: [Terraform Library](https://www.mineiros.io/solutions/terraform-library#pricing).
 
+
+   [![get professional support now][cta]](https://www.mineiros.io/solutions/terraform-library#pricing)
+
+
 ### Mineiros AWS Terraform Modules
 
 [![Terraform Version][badge-terraform]][releases-terraform]
@@ -71,6 +75,8 @@
 - [terraform-github-organization](https://github.com/mineiros-io/terraform-github-organization)
 - [terraform-github-repository](https://github.com/mineiros-io/terraform-github-repository)
 - [terraform-github-team](https://github.com/mineiros-io/terraform-github-team)
+
+[cta]: https://dabuttonfactory.com/button.png?t=GET+PROFESSIONAL+SUPPORT+NOW!&f=Roboto-Bold&ts=20&tc=444&hp=26&vp=17&c=9&bgt=unicolored&bgc=f90&be=1&bs=2&bc=444
 
 [github]: https://github.com/mineiros-io
 [badge-slack]: https://img.shields.io/badge/slack-@mineiros--community-f32752.svg?logo=slack
