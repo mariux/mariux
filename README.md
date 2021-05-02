@@ -68,9 +68,9 @@
 
 *All Terraform Github Modules are compatible with the Terraform GitHub Provider v3 as well as v2.*
 
-- [terraform-aws-github-organization](https://github.com/mineiros-io/terraform-aws-github-organization)
-- [terraform-aws-github-repository](https://github.com/mineiros-io/terraform-aws-github-repository)
-- [terraform-aws-github-team](https://github.com/mineiros-io/terraform-aws-github-team)
+- [terraform-github-organization](https://github.com/mineiros-io/terraform-github-organization)
+- [terraform-github-repository](https://github.com/mineiros-io/terraform-github-repository)
+- [terraform-github-team](https://github.com/mineiros-io/terraform-github-team)
 
 [github]: https://github.com/mineiros-io
 [badge-slack]: https://img.shields.io/badge/slack-@mineiros--community-f32752.svg?logo=slack
