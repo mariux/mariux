@@ -63,7 +63,7 @@
 
 ### Mineiros Github Terraform Modules
 
-[![Terraform Version][badge-terraform]][releases-terraform]
+[![Terraform Version][badge-terraform14]][releases-terraform]
 [![GitHub Provider Version][badge-tf-gh]][releases-github-provider]
 
 *All Terraform Github Modules are compatible with the Terraform GitHub Provider v3 as well as v2.*
@@ -77,6 +77,7 @@
 [slack]: https://join.slack.com/t/mineiros-community/shared_invite/zt-ehidestg-aLGoIENLVs6tvwJ11w9WGg
 
 [badge-terraform]: https://img.shields.io/static/v1?label=Terraform&message=v0.13%20|%20v0.12.20%2b&color=623CE4&logo=terraform&logoColor=623CE4&labelColor=ccc
+[badge-terraform14]: https://img.shields.io/static/v1?label=Terraform&message=v0.14%20|%20v0.13%20|%20v0.12.20%2b&color=623CE4&logo=terraform&logoColor=623CE4&labelColor=ccc
 [releases-terraform]: https://github.com/hashicorp/terraform/releases
 
 [badge-tf-aws]: https://img.shields.io/static/v1?label=AWS%20Provider&message=v3%20|%20v2&color=F8991D&logo=amazon&logoColor=000&labelColor=ccc
