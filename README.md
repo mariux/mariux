@@ -7,7 +7,7 @@
 # The easiest way to run infrastructure on [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50">](https://github.com/mineiros-io)
 ## Built on Terraform, Mineiros enables teams to deploy and manage reusable, tested and secure infrastructure on AWS in days instead of months.
 
-***All our modules support Terraform v0.13 as well as v0.12.20 and above and are ready for the upcoming Terraform 0.14 and Terraform 0.15 releases.***
+***All our modules support Terraform v0.15, v0.14, v0.13 as well as v0.12.20 and above and are ready for the upcoming releases.***
 
 **NEW** We also offer payed **PROFESSIONAL SUPPORT** for our open source library and exclusive previews on upcoming modules check out our full catalogue and pricing: [Terraform Library](https://www.mineiros.io/solutions/terraform-library#pricing).
 
