@@ -89,5 +89,5 @@
 [badge-tf-aws]: https://img.shields.io/static/v1?label=AWS%20Provider&message=v3%20|%20v2&color=F8991D&logo=amazon&logoColor=000&labelColor=ccc
 [releases-aws-provider]: https://github.com/terraform-providers/terraform-provider-aws/releases
 
-[badge-tf-gh]: https://img.shields.io/static/v1?label=Github%20Provider&message=v3%20|%20v2&color=000&logo=github&logoColor=000&labelColor=ccc
+[badge-tf-gh]: https://img.shields.io/static/v1?label=Github%20Provider&message=v4%20|%20v3%20|%20v2&color=000&logo=github&logoColor=000&labelColor=ccc
 [releases-github-provider]: https://github.com/terraform-providers/terraform-provider-github/releases
