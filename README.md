@@ -70,7 +70,7 @@
 [![Terraform Version][badge-terraform14]][releases-terraform]
 [![GitHub Provider Version][badge-tf-gh]][releases-github-provider]
 
-*All Terraform Github Modules are compatible with the Terraform GitHub Provider v3 as well as v2 and support Terraform v1*
+*All Terraform Github Modules are compatible with the Terraform GitHub Provider v4, v3 as well as v2 and support Terraform v1*
 
 - [terraform-github-organization](https://github.com/mineiros-io/terraform-github-organization)
 - [terraform-github-repository](https://github.com/mineiros-io/terraform-github-repository)
