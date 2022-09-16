@@ -4,92 +4,59 @@
 
 [![Join Slack][badge-slack]][slack]
 
-# The easiest way to run infrastructure on [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50">](https://github.com/mineiros-io)
-## Built on Terraform, Mineiros enables teams to deploy and manage reusable, tested and secure infrastructure on AWS in days instead of months.
+# About me
 
-***All our modules support Terraform v0.15, v0.14, v0.13 as well as v0.12.20 and above and are ready for the upcoming releases.***
+I am born and raised in Berlin, Germany with a passion for cloud infrastructure, Infrastructure as Code (IaC) and making peoples life easier by inventing awesome tooling and products like [Terramate].
 
-**NEW** We also offer payed **PROFESSIONAL SUPPORT** for our open source library and exclusive previews on upcoming modules check out our full catalogue and pricing: [Terraform Library](https://www.mineiros.io/solutions/terraform-library#pricing).
+# About Mineiros
 
+I am the Co-Founder and CTPO of [Mineiros] and we try to solve Instrastructre challenges for our customers of our awesome commercial products and for the user of our [Open Source Terraform Modules][github] and Open Source Tooling like [Terramate] and [Terradoc].
 
-   [![get professional support now][cta]](https://www.mineiros.io/solutions/terraform-library#pricing) [![we are hiring][hiring]](https://mineiros.io/)
+## Our Open Source Projects
 
+- [Terramate]
+- [Terradoc]
+- [Terraform Google Modules][github]
+- [Terraform AWS Modules][github]
+- [Terraform GitHub Modules][github]
 
-### Mineiros AWS Terraform Modules
+## Our Commercial Products
 
-[![Terraform Version][badge-terraform]][releases-terraform]
-[![AWS Provider Version][badge-tf-aws]][releases-aws-provider]
+Please have a look at our [website][mineiros] for details.
 
-*All Terraform AWS Modules are compatible with the Terraform AWS Provider v3 as well as v2.*
+- [GitHub as Code](https://mineiros.io/github-as-code)
 
-#### Compute, Containers, and Serverless
-- [terraform-aws-lambda-function](https://github.com/mineiros-io/terraform-aws-lambda-function)
-- terraform-aws-ec2-instance *(coming next)*
-- terraform-aws-eks-cluster *(coming next)*
-- terraform-aws-eks-node-group *(coming next)*
-- terraform-aws-ecs *(coming next)*
+  Enable full developer self-service by managing yourGitHub Organizationwith Terraform
 
-#### Storage, Databases, and Cache
-- [terraform-aws-s3-bucket](https://github.com/mineiros-io/terraform-aws-s3-bucket)
-- [terraform-aws-dynamodb](https://github.com/mineiros-io/terraform-aws-dynamodb)
-- terraform-aws-rds *(coming soon)*
-- terraform-aws-elasticsearch-domain *(coming next)*
+- [Google Cloud Landing Zone as Code](https://mineiros.io/google-cloud-landingzone-as-code)
 
-#### Identity and Access Management (IAM)
-- [terraform-aws-iam-user](https://github.com/mineiros-io/terraform-aws-iam-user)
-- [terraform-aws-iam-group](https://github.com/mineiros-io/terraform-aws-iam-group)
-- [terraform-aws-iam-role](https://github.com/mineiros-io/terraform-aws-iam-role)
-- [terraform-aws-iam-policy](https://github.com/mineiros-io/terraform-aws-policy)
+  A secure and high-performing Landing Zone for Google Cloud as Code
 
-#### Infratsructure and Networking
-- [terraform-aws-vpc](https://github.com/mineiros-io/terraform-aws-vpc)
-- [terraform-aws-route53](https://github.com/mineiros-io/terraform-aws-route53)
-- terraform-aws-eip *(coming next)*
-- terraform-aws-security-group *(coming next)*
-- terraform-aws-cloudfront *(coming next)*
-- terraform-aws-elb *(coming soon)*
+## We have build Terramate
 
-#### Services
-- [terraform-aws-ecr](https://github.com/mineiros-io/terraform-aws-ecr)
-- [terraform-aws-cognito-user-pool](https://github.com/mineiros-io/terraform-aws-cognito-user-pool)
-- terraform-aws-ses *(coming next)*
-- terraform-aws-acm *(coming next)*
+[<img src="https://raw.githubusercontent.com/mineiros-io/brand/38f6e5c20a176c62dc673f707a3987c9ec3691cd/terramate-vertical-logo-black-font.svg" height="80"/>][terramate]
 
-#### AWS Landing Zone
-- terraform-aws-organizations
-- terraform-aws-iam-account
-- terraform-aws-kms
-- terraform-aws-cloudtrail
-- terraform-aws-config
-- terraform-aws-guard-duty
-- terraform-aws-cloudwatch
-- terraform-aws-security-hub
+[Terramate] is an Orchestrator and Code Generator for Hashicorp Terraform.
 
-### Mineiros Github Terraform Modules
+Terramate is also the engine of our commercial products and fully Open Source.
 
-[![Terraform Version][badge-terraform14]][releases-terraform]
-[![GitHub Provider Version][badge-tf-gh]][releases-github-provider]
+All the knowledge of over 20 years doing infrastructure and solving challenges went into this little tool.
 
-*All Terraform Github Modules are compatible with the Terraform GitHub Provider v4, v3 as well as v2 and support Terraform v1*
+We publicly announced [Terramate] in May 2022 and it reached 450 stars on GitHub in just under four month in September 2022.
 
-- [terraform-github-organization](https://github.com/mineiros-io/terraform-github-organization)
-- [terraform-github-repository](https://github.com/mineiros-io/terraform-github-repository)
-- [terraform-github-team](https://github.com/mineiros-io/terraform-github-team)
+Please read our [blog] for more information.
 
-[cta]: https://dabuttonfactory.com/button.png?t=GET+PROFESSIONAL+SUPPORT+NOW!&f=Roboto-Bold&ts=20&tc=444&hp=26&vp=17&c=9&bgt=unicolored&bgc=f90&be=1&bs=2&bc=444
-[hiring]: https://dabuttonfactory.com/button.png?t=WE+ARE+HIRING+TERRAFORM+ENTHUSIASTS!&f=Roboto-Bold&ts=20&tc=444&hp=26&vp=17&c=9&bgt=unicolored&bgc=2b0&be=1&bs=2&bc=444
+### Terramate Blog Posts
 
+- [How to keep your Terrafrom Code DRY by using Terramate](https://blog.mineiros.io/how-to-keep-your-terraform-code-dry-by-using-terramate-be5807fef8f6)
+- [Terramate and Terragrunt](https://blog.mineiros.io/terramate-and-terragrunt-f27f2ec4032f)
+- [Introducing Terramate VSCode Extension and Language Server](https://blog.mineiros.io/introducing-the-terramate-vscode-extension-and-language-server-d77bd392011c)
+- [...][blog]
 
 [github]: https://github.com/mineiros-io
 [badge-slack]: https://img.shields.io/badge/slack-@mineiros--community-f32752.svg?logo=slack
 [slack]: https://join.slack.com/t/mineiros-community/shared_invite/zt-ehidestg-aLGoIENLVs6tvwJ11w9WGg
-
-[badge-terraform]: https://img.shields.io/static/v1?label=Terraform&message=v0.15%20|%20v0.14%20|%20v0.13%20|%20v0.12.20%2b&color=623CE4&logo=terraform&logoColor=623CE4&labelColor=ccc
-[badge-terraform14]: https://img.shields.io/static/v1?label=Terraform&message=v1%20|%20v0.15%20|%20v0.14%20|%20v0.13%20|%20v0.12.20%2b&color=623CE4&logo=terraform&logoColor=623CE4&labelColor=ccc
-[releases-terraform]: https://github.com/hashicorp/terraform/releases
-
-[badge-tf-aws]: https://img.shields.io/static/v1?label=AWS%20Provider&message=v3%20|%20v2&color=F8991D&logo=amazon&logoColor=000&labelColor=ccc
-[releases-aws-provider]: https://github.com/terraform-providers/terraform-provider-aws/releases
-
-[badge-tf-gh]: https://img.shields.io/static/v1?label=Github%20Provider&message=v4%20|%20v3%20|%20v2&color=000&logo=github&logoColor=000&labelColor=ccc
-[releases-github-provider]: https://github.com/terraform-providers/terraform-provider-github/releases
+[mineiros]: https://mineiros.io/?ref=terramate
+[terramate]: https://github.com/mineiros-io/terramate
+[terradoc]: https://github.com/mineiros-io/terradoc
+[blog]: https://blog.mineiros.io
