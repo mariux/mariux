@@ -12,6 +12,8 @@ I am born and raised in Berlin, Germany with a passion for cloud infrastructure,
 
 I am the Co-Founder and CTPO of [Mineiros] and we try to solve Instrastructre challenges for our customers of our awesome commercial products and for the user of our [Open Source Terraform Modules][github] and Open Source Tooling like [Terramate] and [Terradoc].
 
+## We are hiring ;)
+
 ## Our Open Source Projects
 
 - [Terramate]
@@ -32,7 +34,7 @@ Please have a look at our [website][mineiros] for details.
 
   A secure and high-performing Landing Zone for Google Cloud as Code
 
-## We have build Terramate
+## We are building Terramate
 
 [<img src="https://raw.githubusercontent.com/mineiros-io/brand/38f6e5c20a176c62dc673f707a3987c9ec3691cd/terramate-vertical-logo-black-font.svg" height="80"/>][terramate]
 
